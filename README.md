@@ -1,4 +1,4 @@
-# Welcome to your CDK TypeScript project
+# Welcome to Duckboi's CDK Pipeline Code
 
 This repository is an exact represention of the duckboi project structure without any application code.
 
